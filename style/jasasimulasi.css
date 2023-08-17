@@ -1,0 +1,19 @@
+.jumbotron{
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+    padding-left: 3rem;
+    padding-right: 5rem;
+}
+.isi{
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-top: 8rem;
+    padding-bottom: 7rem;
+}
+.pelayanan {
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    padding-left: 3rem;
+    padding-right: 5rem;
+    background-color: #F5F5F5;
+}

@@ -1,0 +1,13 @@
+.jumbotron{
+    padding-top: 20rem;
+    padding-bottom: 10rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-image: url(../img/kons.jpg);
+}
+.katalog{
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}

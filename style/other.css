@@ -1,0 +1,12 @@
+.jumbotron{
+    padding-top: 10rem;
+    padding-bottom: 25rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    background-image: url(../img/arsip.jpg);
+    background-repeat: no-repeat;
+}
+.container{
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}

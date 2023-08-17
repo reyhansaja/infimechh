@@ -1,0 +1,9 @@
+.jumbotron{
+    padding: 7rem;
+    background-image: url(../img/jasa.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.portofolio{
+    padding: 5rem;
+}

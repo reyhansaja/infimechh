@@ -1,0 +1,43 @@
+.awal {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    padding-left: 4rem;
+    background-color: #0040AE;
+}
+
+.pengertian {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    padding-left: 3rem;
+    padding-right: 10rem;
+}
+
+.jasa {
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    padding-left: 3rem;
+    padding-right: 5rem;
+    background-color: #DDE6ED;
+}
+.pelayanan {
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    padding-left: 3rem;
+    padding-right: 5rem;
+    background-color: #DDE6ED;
+}
+.layanan {
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    padding-left: 3rem;
+    padding-right: 5rem;
+}
+.biaya {
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    padding-left: 3rem;
+    padding-right: 5rem;
+}
+.portofolio{
+    padding: 5rem;
+}

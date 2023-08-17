@@ -1,0 +1,19 @@
+.jumbotron{
+    padding: 7rem;
+    background-image: url(../img/line.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.profile{
+    padding: 5rem;
+}
+.rekom{
+    padding: 5rem;
+    background-color: #0D1282;
+}
+.research{
+    padding: 5rem;
+}
+.topik{
+    padding: 5rem;
+}

@@ -1,0 +1,13 @@
+.jumbotron{
+    padding-top: 10rem;
+    padding-bottom: 25rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    background-image: url(../img/kantoor.jpg);
+}
+.jasa{
+    padding-left: 3rem;
+    padding-top: 7rem;
+    padding-right: 3rem;
+    padding-bottom: 7rem;
+}
